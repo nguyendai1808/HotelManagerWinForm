@@ -1,0 +1,264 @@
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.pdb
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmLogin.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.exe
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.pdb
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmbill.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPay.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRent.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmCustomer.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmBookRoom.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRegister.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRoomManager.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmReport.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPass.resources
+D:\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmSP.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmSP.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmReport.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmBill.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPay.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmCustomer.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmBookRoom.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRegister.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPass.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmLogin.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRoomManager.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmService.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmStaff.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.exe.licenses
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\stdole.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.Print.frmPrint.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\LTTQ\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\EnvDTE.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\stdole.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmSP.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmReport.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmBill.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPay.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmService.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmCustomer.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmBookRoom.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRegister.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPass.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmLogin.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRoomManager.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmStaff.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.Print.frmPrint.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.exe.licenses
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\Nguyen Thanh Dai\Downloads\Compressed\btlcsharp\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.pdb
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.exe
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\BTL.pdb
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\EnvDTE.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\stdole.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmSP.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmReport.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmBill.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPay.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmService.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmCustomer.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmBookRoom.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRegister.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmPass.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmLogin.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmRoomManager.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.frmStaff.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.Print.frmPrint.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.exe.licenses
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.exe
+E:\C#\BTL_Nhom\BTL\BTL\BTL\obj\Debug\BTL.pdb
